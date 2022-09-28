@@ -1,4 +1,4 @@
-#Visor de Imagenes Python
+# Visor de Imagenes Python
 
 ### Primer uso:
 
